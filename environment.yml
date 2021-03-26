@@ -1,0 +1,21 @@
+name: raildelays
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - torchvision
+  - pytorch
+  - cudatoolkit=10.1
+  - scipy
+  - tensorflow=2.0.0=mkl_py37h66b46cc_0
+  - scikit-learn
+  - pandas
+  - jupyter
+  - dask
+  - matplotlib
+  - arrow
+  - networkx
+  - fastparquet
+  - python-snappy
+  # - jupyter_contrib_nbextensions: manually install for improved notebook interface

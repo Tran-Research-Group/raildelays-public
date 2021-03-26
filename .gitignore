@@ -1,0 +1,7 @@
+# data / large file-containing directories in the project root
+/data
+/models
+
+# jupyter notebook checkpoint files
+/.ipynb_checkpoints
+*.ipynb_*
