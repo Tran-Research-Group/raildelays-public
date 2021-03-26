@@ -1,4 +1,25 @@
-# raildelays
+# Railway Delay Prediction with Spatial-Temporal Graph Convolutional Networks
+
+## Related Materials
+[Read the paper](https://ieeexplore.ieee.org/abstract/document/9294742)
+
+[Youtube (Presented at ITSC 2020)](https://www.youtube.com/watch?v=p5LO97n3llg)
+
+[UIUC Aerospace Engineering Department Coverage](https://aerospace.illinois.edu/news/predicting-british-railway-delays-using-artificial-intelligence)
+
+## Cite Us
+If you found these materials helpful, please cite us in your work
+
+```
+@inproceedings{heglund2020railway,
+  title={Railway Delay Prediction with Spatial-Temporal Graph Convolutional Networks},
+  author={Heglund, Jacob SW and Taleongpong, Panukorn and Hu, Simon and Tran, Huy T},
+  booktitle={2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)},
+  pages={1--6},
+  year={2020},
+  organization={IEEE}
+}
+```
 
 ## Reproducing the Results
 
